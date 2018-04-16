@@ -1,2 +1,2 @@
 # netauto
-netaut for youtube
+netauto for youtube
