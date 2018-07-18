@@ -1,2 +1,0 @@
-# netauto
-netauto for youtube
