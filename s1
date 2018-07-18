@@ -10,3 +10,4 @@ ports:
     1: [ 10 ]
     2: [ 20 ]
     3: [ 10, 20 ]
+zmenene remote
